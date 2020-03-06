@@ -1,8 +1,8 @@
 # FlakeShovel
 
-## DroidFlaker benchmark
+## DroidFlaker Suite
 
-The subjects in DroidFlaker benchmark are listed below.
+The subjects in DroidFlaker suite are listed below.
 
 | App Name | Version | \#LOC | \#Stars  | Category|Github website|
 |--|--|--|--|--|--|
