@@ -16,7 +16,6 @@ The subjects in DroidFlaker suite are listed below.
 | DuckDuckGo | 5.43.0 | 211.3k | 1.2k | Tools|https://github.com/duckduckgo/Android|
 | Espresso | 1.0 | 17.3k | 1.1k | Maps \& Navigation|https://github.com/TonnyL/Espresso|
 | Firefox Lite | 2.18 | 1598.4k | 212 | Communication|https://github.com/mozilla-tw/FirefoxLite.git|
-| FlexBox | 2.0.1 | 29.2k | 15.2k | Libraries \& Demo|https://github.com/google/flexbox-layout|
 | GnuCash | 2.4.0 | 90.1k | 1k | GnuCash|https://github.com/codinguser/gnucash-android|
 | IBS FoodAnalyzer | 1.2 | 26.1k | 0 | Health \& Fitness|https://github.com/lundjohan/IBSFoodAnalyzer|
 | Google I/O | 7.0.14 | 73.5k | 19.6k | Books \& Reference|https://github.com/google/iosched|
