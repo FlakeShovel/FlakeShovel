@@ -9,17 +9,22 @@ The subjects in DroidFlaker suite are listed below.
 | Amaze File Manager | 3.4.3 | 92.2k | 2.8k | Tools|https://github.com/TeamAmaze/AmazeFileManager|
 | Youtube Extractor | 2.0.0 | 2.7k | 519 | Video Players|https://github.com/HaarigerHarald/android-youtubeExtractor|
 | AntennaPod | 1.8.1 | 102.6k | 2.7k | Music \& Audio|https://github.com/AntennaPod/AntennaPod/tree/aca6e3|
+| Backpack Design | 2.0.7 | 84.2k | 363 | Productivity |https://github.com/Skyscanner/backpack-android|
+| Barista | 3.5.0 | 67.9k | 1.2k | Productivity |https://github.com/AdevintaSpain/Barista|
 | CameraView | 2.6.1 | 40.5k | 2.9k | Photography|https://github.com/google/cameraview|
 | Catroid | 0.9.69 | 457.5k | 0 | Education|https://github.com/souravmunjal/clonecat|
 | City Localizer | 1.1 | 4k | 0 | Travel \& Local|https://github.com/lszymans/CityLocalizer|
 | ConnectBot | 1.9.6 | 119.7k | 1.4k | Communication|https://github.com/connectbot/connectbot|
 | DuckDuckGo | 5.43.0 | 211.3k | 1.2k | Tools|https://github.com/duckduckgo/Android|
 | Espresso | 1.0 | 17.3k | 1.1k | Maps \& Navigation|https://github.com/TonnyL/Espresso|
+| Firefox Focus| 8.5.1 | 44.5k | 1.6k | Communication|https://github.com/mozilla-mobile/focus-android|
 | Firefox Lite | 2.18 | 1598.4k | 212 | Communication|https://github.com/mozilla-tw/FirefoxLite.git|
+| FlexBox | 2.0.1 | 29.2k | 15.2k | Libraries & Demo |https://github.com/google/flexbox-layout|
 | GnuCash | 2.4.0 | 90.1k | 1k | GnuCash|https://github.com/codinguser/gnucash-android|
 | IBS FoodAnalyzer | 1.2 | 26.1k | 0 | Health \& Fitness|https://github.com/lundjohan/IBSFoodAnalyzer|
 | Google I/O | 7.0.14 | 73.5k | 19.6k | Books \& Reference|https://github.com/google/iosched|
 | Just Weather | 1.0.0 | 5.9k | 65 | Weather|https://github.com/kidinov/Just-Weather|
+| Kaspresso | 1.1.0 | 66.3k | 774 | Productivity|https://github.com/KasperskyLab/Kaspresso|
 | KeePassDroid | 2.5.3 | 159.7k | 1.2k | Tools|https://github.com/bpellin/keepassdroid|
 | KickMaterial | 1.0 | 79.1k | 1.6k | Crowdfunding|https://github.com/byoutline/kickmaterial|
 | KISS Launcher | 3.11.9 | 27.2k | 1.4k | Personalisation|https://github.com/Neamar/KISS|
